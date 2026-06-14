@@ -1,2 +1,28 @@
-# ee83a68db9f2c0b5-cybersecurity-user-authenticat
-Professional user authentication and access control built for cybersecurity operations and growth.
+# Cybersecurity User Authentication and Access Control
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic triggers | Yes | Yes |
+| Standard nodes | Yes | Yes |
+| Manual execution | Yes | Yes |
+| Advanced triggers | - | Yes |
+| Custom nodes | - | Yes |
+| Scheduled execution | - | Yes |
+| Error handling | - | Yes |
+| Priority queue | - | Yes |
+| Webhook integrations | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/8x23cv3aLcYI7BCbzScZe3n)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/8x23cv3aLcYI7BCbzScZe3n)
+
